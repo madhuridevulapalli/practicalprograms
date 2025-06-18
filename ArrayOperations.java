@@ -3,8 +3,6 @@ import java.util.Scanner;
 public class ArrayOperations {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
-        // Declare an array of size 100
         int[] array = new int[100];
         int size = 0;
 
